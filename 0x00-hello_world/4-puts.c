@@ -1,8 +1,9 @@
-#include<stdio.h>
+#include <stdio.h>
 
 /**
-* main-prints a line of code
-* my first c code
+* main- entry point
+*
+* Return: always 0 (sucess)
 */
 int main(void)
 {
