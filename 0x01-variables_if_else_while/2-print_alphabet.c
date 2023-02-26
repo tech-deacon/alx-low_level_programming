@@ -6,7 +6,7 @@
  * the program prints accurqate
  * Return: 0
  */
-int main(void);
+int main(void)
 {
 char ch;
 
